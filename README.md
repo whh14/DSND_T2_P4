@@ -6,6 +6,7 @@ This goal of this project is to use Convolutional Neural Networks (CNNs) and oth
 
 ### File Descriptions
 dog_app.ipynb: jupyter notebook file consist of step by step demostration of building of the dog breed classifier pipeline.
+dog_app.html: a html verison of the jupyter notebook file for reading and easy access.
 
 ### Instructions for jupyter notebook 
 To run the jupyter notebook file, install all the necessary packages and run the jupyter notebook from a conda environment  
